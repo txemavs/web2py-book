@@ -36,7 +36,7 @@ Importante: para correr la distribución de código fuente de web2py en Windows 
 
 El programa web2py acepta varias opciones de la línea de comandos que se describen más adelante.
 
-Por defecto, al iniciar, web2py muestra una pantalla de inicio y luego un widget de la GUI que pide que elijas una una contraseña temporaria de administrador, la dirección IP de la interfaz de red a utilizar para el servidor web, y un número de puerto desde el cual se servirán las solicitudes. Por defecto, web2py corre su servidor web en 127.0.0.1:8000 (puerto 8000 en localhost), pero puedes correrlo en cualquier dirección IP y puerto disponible. Puedes consultar la dirección IP de tu interfaz de red abriendo una consola y escribiendo ``ipconfig`` en Windows o ``ifconfig`` en OS X y Linux. En adelante asumiremos que web2py está corriendo en localhost (127.0.0.1:8000). Utiliza 0.0.0.0:80 para correr web2py públicamente en cualquiera de tus interfaces de red.
+Por defecto, al iniciar, web2py muestra una pantalla de inicio y luego una ventana que pide que elijas una una contraseña temporal de administrador, la dirección IP de la interfaz de red a utilizar para el servidor web, y un número de puerto desde el cual se servirán las solicitudes. Por defecto, web2py corre su servidor web en 127.0.0.1:8000 (puerto 8000 en localhost), pero puedes correrlo en cualquier dirección IP y puerto disponible. Puedes consultar la dirección IP de tu interfaz de red abriendo una consola y escribiendo ``ipconfig`` en Windows o ``ifconfig`` en OS X y Linux. En adelante asumiremos que web2py está corriendo en localhost (127.0.0.1:8000). Utiliza 0.0.0.0:80 para correr web2py públicamente en cualquiera de tus interfaces de red.
 
 [[imagen @///image/en400.png center 306px]]
 
@@ -88,7 +88,7 @@ Cuando creas una nueva aplicación utilizando **admin**, esta se instala como un
 -----
 
 -----
-web2py también viene con un **asistente**, descripto más adelante en este capítulo, que puede escribir código alternativo de andamiaje automáticamente basado en plantillas y plugins disponibles en la web y basándose en descripciones de alto nivel de los modelos.
+web2py también viene con un **asistente**, descrito más adelante en este capítulo, que puede escribir código alternativo de andamiaje automáticamente basado en plantillas y plugins disponibles en la web y basándose en descripciones de alto nivel de los modelos.
 -----
 
 ### Ejemplos sencillos
